@@ -1,6 +1,7 @@
 @echo off
 setlocal
 cd /d "%~dp0"
+"C:\Program Files\Git\cmd\git.exe" config --global --add safe.directory "%~dp0"
 "C:\Program Files\Git\cmd\git.exe" push -u origin main
 if errorlevel 1 (
   echo.
