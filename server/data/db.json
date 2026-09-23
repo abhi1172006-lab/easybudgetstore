@@ -1,0 +1,515 @@
+{
+  "users": [],
+  "products": [
+    {
+      "id": "ebs-m-001",
+      "sku": "TSH-OVR-001",
+      "name": "Oversized Heavyweight Cotton T-Shirt",
+      "slug": "oversized-heavyweight-cotton-tshirt",
+      "category": "Men",
+      "subcategory": "T-Shirts",
+      "description": "Premium 240 GSM 100% combed cotton oversized t-shirt. Double-stitched seams, drop shoulders, reactive dye colors.",
+      "short_description": "240 GSM 100% Combed Cotton Oversized fit.",
+      "retail_mrp": 699,
+      "price_slab_a": 220,
+      "price_slab_b": 195,
+      "price_slab_c": 180,
+      "moq": 10,
+      "gst_percentage": 5,
+      "hsn_code": "6109",
+      "gender": "Men",
+      "fabric": "240 GSM Combed Cotton",
+      "fit": "Oversized",
+      "is_featured": 1,
+      "is_new_arrival": 1,
+      "is_bestseller": 1,
+      "status": "ACTIVE",
+      "image_url": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=800&auto=format&fit=crop&q=80",
+      "created_at": "2026-09-19T09:37:25.254Z"
+    },
+    {
+      "id": "ebs-m-002",
+      "sku": "HOD-FLE-002",
+      "name": "Heavy Fleece Premium Pullover Hoodie",
+      "slug": "heavy-fleece-premium-pullover-hoodie",
+      "category": "Men",
+      "subcategory": "Hoodies",
+      "description": "380 GSM super-soft fleece lined hoodie. Pre-shrunk cotton-poly blend, kangaroo pocket, ribbed cuffs.",
+      "short_description": "380 GSM Heavy Fleece Pullover.",
+      "retail_mrp": 1299,
+      "price_slab_a": 480,
+      "price_slab_b": 440,
+      "price_slab_c": 410,
+      "moq": 10,
+      "gst_percentage": 5,
+      "hsn_code": "6110",
+      "gender": "Men",
+      "fabric": "380 GSM Fleece Cotton Blend",
+      "fit": "Regular Custom",
+      "is_featured": 1,
+      "is_new_arrival": 1,
+      "is_bestseller": 1,
+      "status": "ACTIVE",
+      "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800&auto=format&fit=crop&q=80",
+      "created_at": "2026-09-19T09:37:25.254Z"
+    },
+    {
+      "id": "ebs-m-003",
+      "sku": "JAC-BOM-003",
+      "name": "Quilted Thermal Bomber Jacket",
+      "slug": "quilted-thermal-bomber-jacket",
+      "category": "Men",
+      "subcategory": "Jackets",
+      "description": "Windproof heavy nylon quilted jacket with thermal insulation lining. Durable zipper, internal secret pocket.",
+      "short_description": "Windproof Thermal Quilted Bomber Jacket.",
+      "retail_mrp": 1899,
+      "price_slab_a": 720,
+      "price_slab_b": 670,
+      "price_slab_c": 630,
+      "moq": 10,
+      "gst_percentage": 5,
+      "hsn_code": "6101",
+      "gender": "Men",
+      "fabric": "Nylon Shell with Polyester Quilt",
+      "fit": "Regular Fit",
+      "is_featured": 1,
+      "is_new_arrival": 0,
+      "is_bestseller": 1,
+      "status": "ACTIVE",
+      "image_url": "https://images.unsplash.com/photo-1544441893-675973e31985?w=800&auto=format&fit=crop&q=80",
+      "created_at": "2026-09-19T09:37:25.254Z"
+    },
+    {
+      "id": "ebs-w-001",
+      "sku": "JAC-WOM-001",
+      "name": "Women Cropped Puffer Winter Jacket",
+      "slug": "women-cropped-puffer-winter-jacket",
+      "category": "Women",
+      "subcategory": "Jackets",
+      "description": "Trendy cropped puffer jacket with high collar and elastic drawstring waist.",
+      "short_description": "Cropped Puffer Jacket for Women.",
+      "retail_mrp": 1599,
+      "price_slab_a": 590,
+      "price_slab_b": 540,
+      "price_slab_c": 500,
+      "moq": 10,
+      "gst_percentage": 5,
+      "hsn_code": "6102",
+      "gender": "Women",
+      "fabric": "High Density Nylon + Polyfill",
+      "fit": "Slim Cropped",
+      "is_featured": 1,
+      "is_new_arrival": 1,
+      "is_bestseller": 0,
+      "status": "ACTIVE",
+      "image_url": "https://images.unsplash.com/photo-1548883354-7622d03aca27?w=800&auto=format&fit=crop&q=80",
+      "created_at": "2026-09-19T09:37:25.254Z"
+    },
+    {
+      "id": "ebs-k-001",
+      "sku": "JAC-KID-001",
+      "name": "Kids Hooded Winter Puffer Jacket",
+      "slug": "kids-hooded-winter-puffer-jacket",
+      "category": "Kids",
+      "subcategory": "Jackets",
+      "description": "Vibrant color-blocked winter jacket for boys and girls.",
+      "short_description": "Fleece Lined Kids Puffer Jacket.",
+      "retail_mrp": 999,
+      "price_slab_a": 380,
+      "price_slab_b": 340,
+      "price_slab_c": 310,
+      "moq": 10,
+      "gst_percentage": 5,
+      "hsn_code": "6101",
+      "gender": "Kids",
+      "fabric": "Polyester Shell with Fleece Lining",
+      "fit": "Regular Kids Fit",
+      "is_featured": 1,
+      "is_new_arrival": 0,
+      "is_bestseller": 1,
+      "status": "ACTIVE",
+      "image_url": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?w=800&auto=format&fit=crop&q=80",
+      "created_at": "2026-09-19T09:37:25.254Z"
+    }
+  ],
+  "product_variants": [
+    {
+      "id": 1,
+      "product_id": "ebs-m-001",
+      "sku": "TSH-OVR-001-M-BLACK",
+      "size": "M",
+      "color": "Black",
+      "stock": 150
+    },
+    {
+      "id": 2,
+      "product_id": "ebs-m-001",
+      "sku": "TSH-OVR-001-M-NAVY",
+      "size": "M",
+      "color": "Navy",
+      "stock": 150
+    },
+    {
+      "id": 3,
+      "product_id": "ebs-m-001",
+      "sku": "TSH-OVR-001-L-BLACK",
+      "size": "L",
+      "color": "Black",
+      "stock": 150
+    },
+    {
+      "id": 4,
+      "product_id": "ebs-m-001",
+      "sku": "TSH-OVR-001-L-NAVY",
+      "size": "L",
+      "color": "Navy",
+      "stock": 150
+    },
+    {
+      "id": 5,
+      "product_id": "ebs-m-001",
+      "sku": "TSH-OVR-001-XL-BLACK",
+      "size": "XL",
+      "color": "Black",
+      "stock": 150
+    },
+    {
+      "id": 6,
+      "product_id": "ebs-m-001",
+      "sku": "TSH-OVR-001-XL-NAVY",
+      "size": "XL",
+      "color": "Navy",
+      "stock": 150
+    },
+    {
+      "id": 7,
+      "product_id": "ebs-m-001",
+      "sku": "TSH-OVR-001-XXL-BLACK",
+      "size": "XXL",
+      "color": "Black",
+      "stock": 150
+    },
+    {
+      "id": 8,
+      "product_id": "ebs-m-001",
+      "sku": "TSH-OVR-001-XXL-NAVY",
+      "size": "XXL",
+      "color": "Navy",
+      "stock": 150
+    },
+    {
+      "id": 9,
+      "product_id": "ebs-m-002",
+      "sku": "HOD-FLE-002-M-BLACK",
+      "size": "M",
+      "color": "Black",
+      "stock": 150
+    },
+    {
+      "id": 10,
+      "product_id": "ebs-m-002",
+      "sku": "HOD-FLE-002-M-NAVY",
+      "size": "M",
+      "color": "Navy",
+      "stock": 150
+    },
+    {
+      "id": 11,
+      "product_id": "ebs-m-002",
+      "sku": "HOD-FLE-002-L-BLACK",
+      "size": "L",
+      "color": "Black",
+      "stock": 150
+    },
+    {
+      "id": 12,
+      "product_id": "ebs-m-002",
+      "sku": "HOD-FLE-002-L-NAVY",
+      "size": "L",
+      "color": "Navy",
+      "stock": 150
+    },
+    {
+      "id": 13,
+      "product_id": "ebs-m-002",
+      "sku": "HOD-FLE-002-XL-BLACK",
+      "size": "XL",
+      "color": "Black",
+      "stock": 150
+    },
+    {
+      "id": 14,
+      "product_id": "ebs-m-002",
+      "sku": "HOD-FLE-002-XL-NAVY",
+      "size": "XL",
+      "color": "Navy",
+      "stock": 150
+    },
+    {
+      "id": 15,
+      "product_id": "ebs-m-002",
+      "sku": "HOD-FLE-002-XXL-BLACK",
+      "size": "XXL",
+      "color": "Black",
+      "stock": 150
+    },
+    {
+      "id": 16,
+      "product_id": "ebs-m-002",
+      "sku": "HOD-FLE-002-XXL-NAVY",
+      "size": "XXL",
+      "color": "Navy",
+      "stock": 150
+    },
+    {
+      "id": 17,
+      "product_id": "ebs-m-003",
+      "sku": "JAC-BOM-003-M-BLACK",
+      "size": "M",
+      "color": "Black",
+      "stock": 150
+    },
+    {
+      "id": 18,
+      "product_id": "ebs-m-003",
+      "sku": "JAC-BOM-003-M-NAVY",
+      "size": "M",
+      "color": "Navy",
+      "stock": 150
+    },
+    {
+      "id": 19,
+      "product_id": "ebs-m-003",
+      "sku": "JAC-BOM-003-L-BLACK",
+      "size": "L",
+      "color": "Black",
+      "stock": 150
+    },
+    {
+      "id": 20,
+      "product_id": "ebs-m-003",
+      "sku": "JAC-BOM-003-L-NAVY",
+      "size": "L",
+      "color": "Navy",
+      "stock": 150
+    },
+    {
+      "id": 21,
+      "product_id": "ebs-m-003",
+      "sku": "JAC-BOM-003-XL-BLACK",
+      "size": "XL",
+      "color": "Black",
+      "stock": 150
+    },
+    {
+      "id": 22,
+      "product_id": "ebs-m-003",
+      "sku": "JAC-BOM-003-XL-NAVY",
+      "size": "XL",
+      "color": "Navy",
+      "stock": 150
+    },
+    {
+      "id": 23,
+      "product_id": "ebs-m-003",
+      "sku": "JAC-BOM-003-XXL-BLACK",
+      "size": "XXL",
+      "color": "Black",
+      "stock": 150
+    },
+    {
+      "id": 24,
+      "product_id": "ebs-m-003",
+      "sku": "JAC-BOM-003-XXL-NAVY",
+      "size": "XXL",
+      "color": "Navy",
+      "stock": 150
+    },
+    {
+      "id": 25,
+      "product_id": "ebs-w-001",
+      "sku": "JAC-WOM-001-M-BLACK",
+      "size": "M",
+      "color": "Black",
+      "stock": 150
+    },
+    {
+      "id": 26,
+      "product_id": "ebs-w-001",
+      "sku": "JAC-WOM-001-M-NAVY",
+      "size": "M",
+      "color": "Navy",
+      "stock": 150
+    },
+    {
+      "id": 27,
+      "product_id": "ebs-w-001",
+      "sku": "JAC-WOM-001-L-BLACK",
+      "size": "L",
+      "color": "Black",
+      "stock": 150
+    },
+    {
+      "id": 28,
+      "product_id": "ebs-w-001",
+      "sku": "JAC-WOM-001-L-NAVY",
+      "size": "L",
+      "color": "Navy",
+      "stock": 150
+    },
+    {
+      "id": 29,
+      "product_id": "ebs-w-001",
+      "sku": "JAC-WOM-001-XL-BLACK",
+      "size": "XL",
+      "color": "Black",
+      "stock": 150
+    },
+    {
+      "id": 30,
+      "product_id": "ebs-w-001",
+      "sku": "JAC-WOM-001-XL-NAVY",
+      "size": "XL",
+      "color": "Navy",
+      "stock": 150
+    },
+    {
+      "id": 31,
+      "product_id": "ebs-w-001",
+      "sku": "JAC-WOM-001-XXL-BLACK",
+      "size": "XXL",
+      "color": "Black",
+      "stock": 150
+    },
+    {
+      "id": 32,
+      "product_id": "ebs-w-001",
+      "sku": "JAC-WOM-001-XXL-NAVY",
+      "size": "XXL",
+      "color": "Navy",
+      "stock": 150
+    },
+    {
+      "id": 33,
+      "product_id": "ebs-k-001",
+      "sku": "JAC-KID-001-M-BLACK",
+      "size": "M",
+      "color": "Black",
+      "stock": 150
+    },
+    {
+      "id": 34,
+      "product_id": "ebs-k-001",
+      "sku": "JAC-KID-001-M-NAVY",
+      "size": "M",
+      "color": "Navy",
+      "stock": 150
+    },
+    {
+      "id": 35,
+      "product_id": "ebs-k-001",
+      "sku": "JAC-KID-001-L-BLACK",
+      "size": "L",
+      "color": "Black",
+      "stock": 150
+    },
+    {
+      "id": 36,
+      "product_id": "ebs-k-001",
+      "sku": "JAC-KID-001-L-NAVY",
+      "size": "L",
+      "color": "Navy",
+      "stock": 150
+    },
+    {
+      "id": 37,
+      "product_id": "ebs-k-001",
+      "sku": "JAC-KID-001-XL-BLACK",
+      "size": "XL",
+      "color": "Black",
+      "stock": 150
+    },
+    {
+      "id": 38,
+      "product_id": "ebs-k-001",
+      "sku": "JAC-KID-001-XL-NAVY",
+      "size": "XL",
+      "color": "Navy",
+      "stock": 150
+    },
+    {
+      "id": 39,
+      "product_id": "ebs-k-001",
+      "sku": "JAC-KID-001-XXL-BLACK",
+      "size": "XXL",
+      "color": "Black",
+      "stock": 150
+    },
+    {
+      "id": 40,
+      "product_id": "ebs-k-001",
+      "sku": "JAC-KID-001-XXL-NAVY",
+      "size": "XXL",
+      "color": "Navy",
+      "stock": 150
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-EBS-069251",
+      "user_id": null,
+      "customer_name": "Abhi Wholesale Retailer",
+      "business_name": "Fashion Boutique Delhi",
+      "phone": "+91 9289981449",
+      "email": "test@retailer.com",
+      "shipping_address": "Subhash Road, Ram Lakha Mal Market",
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110031",
+      "total_items": 50,
+      "total_amount": 9750,
+      "discount_amount": 0,
+      "coupon_code": null,
+      "payment_status": "PENDING_CONFIRMATION",
+      "order_status": "CONFIRMED",
+      "payment_method": "WHATSAPP_B2B_INVOICE",
+      "notes": null,
+      "created_at": "2026-09-19T09:44:29.254Z"
+    }
+  ],
+  "order_items": [
+    {
+      "id": 1,
+      "order_id": "ORD-EBS-069251",
+      "product_id": "ebs-m-001",
+      "product_name": "Oversized Heavyweight Cotton T-Shirt",
+      "size": "L",
+      "color": "Black",
+      "quantity": 50,
+      "unit_price": 195,
+      "subtotal": 9750
+    }
+  ],
+  "bulk_quotes": [],
+  "coupons": [],
+  "audit_logs": [
+    {
+      "id": 1,
+      "user_email": "test@retailer.com",
+      "action": "CREATE_ORDER",
+      "entity": "ORDER",
+      "entity_id": "ORD-EBS-069251",
+      "details": "Order placed: 50 pcs, Total ₹9,750",
+      "created_at": "2026-09-19T09:44:29.272Z"
+    }
+  ],
+  "site_settings": {
+    "site_name": "EasyBudgetStore",
+    "tagline": "WHOLESALE, FROM YOUR HOME",
+    "owner_name": "Abhi Gupta",
+    "phone": "+91 9289981449",
+    "whatsapp": "919289981449",
+    "address": "IX/502, Shop No. 1, Ram Lakha Mal Market, Near Tikona Park, Subhash Road, Gandhi Nagar, Delhi-110031",
+    "maintenance_mode": "false"
+  }
+}
